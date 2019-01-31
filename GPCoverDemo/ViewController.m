@@ -6,6 +6,7 @@
 //  Copyright © 2016年 Gorpeln. All rights reserved.
 //
 
+
 #import "ViewController.h"
 #import "GPCover.h"
 
@@ -30,6 +31,7 @@
     [self loadTableView];
     
 }
+
 #pragma mark -
 #pragma mark -- TableViewDelegate
 -(void)loadTableView{
